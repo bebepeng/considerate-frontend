@@ -1,0 +1,19 @@
+// Place all the styles related to the examples controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.h1 {
+  @extend h1
+}
+
+.h2 {
+  @extend h2
+}
+
+.h3 {
+  @extend h3
+}
+
+.p {
+  @extend p
+}
